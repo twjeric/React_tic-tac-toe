@@ -1,5 +1,7 @@
 # Tic-Tac-Toe Game with React
 
+Play: https://twjeric.github.io/React_tic-tac-toe/
+
 This is my first React App, developed by following this [official tutorial](Tutorial_%20Intro%20to%20React%20-%20React.pdf).
 
 Improvements:
