@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game with React
 
-This is my first React App, developed by following this [official tutorial](Tutorial_ Intro to React - React.pdf).
+This is my first React App, developed by following this [official tutorial](Tutorial_%20Intro%20to%20React%20-%20React.pdf).
 
 Improvements:
 
