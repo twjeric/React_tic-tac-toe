@@ -36,6 +36,10 @@ ol, ul {
   outline: none;
 }
 
+.square-win {
+  background-color: #ddd;
+}
+
 .kbd-navigation .square:focus {
   background: #ddd;
 }
